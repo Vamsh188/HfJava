@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class IfExample {
     public void method() {
-
+        int k = 256;
         int pass = 35;
         int first = 60;
         int dis = 80;
