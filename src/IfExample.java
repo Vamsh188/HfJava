@@ -6,6 +6,7 @@ public class IfExample {
         int pass = 35;
         int first = 60;
         int dis = 80;
+        int g =25;
 
         Scanner scanner = new Scanner(System.in);
 
